@@ -1,3 +1,7 @@
+[Adblock]
+!
+! Adblock Plus for Chrome transition filters
+!
 @@||investing.com/*^$document
 @@||kr.investing.com/$document
 ||deepdive.zum.com^
