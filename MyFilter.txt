@@ -59,6 +59,7 @@ chosun.com##DIV[class="flex-chain-wrapper lg | box--margin-bottom-xl width--100 
 chosun.com##DIV[class="flex-chain-wrapper lg | box--margin-none width--100 box--pad-top-xl box--bg-undefined box--hidden-sm box--hidden-md-only"]
 chosun.com##DIV[class="flex-chain-wrapper lg | box--margin-none width--100 box--pad-top-xl box--pad-bottom-xl box--bg-grey-20 box--hidden-sm box--hidden-md-only"]
 chosun.com##DIV[class="flex-chain-wrapper lg | box--margin-top-xl width--100 box--pad-top-xl box--bg-undefined box--border box--border-black box--border-xs box--border-horizontal box--border-horizontal-top box--hidden-sm box--hidden-md-only"]
+chosun.com##DIV[class="arcad-wrapper size_616X250_340X280 width--100 flex flex--justify-center flex--direction-column article-body__content box--bg-grey-20 box-md--pad-bottom-lg box-md--pad-top-lg"]
 chosun.com##DIV[class="flex-chain-wrapper lg | box--margin-top-xl width--100 box--pad-top-xl box--pad-bottom-xl box--bg-grey-20 box--hidden-sm box--hidden-md-only"]
 chosun.com##DIV[class="flex-chain-wrapper lg | width--100 box--pad-top-xl box--bg-undefined box--hidden-sm box--hidden-md-only"]
 chosun.com##DIV[class="list_ad full"]
