@@ -327,3 +327,5 @@ bloter.net##DIV[class="box comment_area"]
 bloter.net##DIV[class="service_wrap"]
 
 mediatoday.co.kr##ARTICLE[id="reply"]
+
+naver.com##DIV[id="NM_TOP_BANNER"]
