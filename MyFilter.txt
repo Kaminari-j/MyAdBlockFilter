@@ -331,3 +331,8 @@ bloter.net##DIV[class="service_wrap"]
 mediatoday.co.kr##ARTICLE[id="reply"]
 
 naver.com##DIV[id="NM_TOP_BANNER"]
+
+asiae.co.kr##DIV[class="photo_vod"]
+asiae.co.kr##DIV[class="as_see_news"]
+asiae.co.kr##DIV[class="as_mj_news"]
+asiae.co.kr##DIV[class="sec4_ad"]
