@@ -32,6 +32,7 @@ adcreative.naver.com
 ams.rmcnmv.naver.com
 auto.danawa.com##DIV[id="newcarAdList"][class="adList"]
 bb.ad.naver.com
+
 ruliweb.com##DIV[class="ad"]
 ruliweb.com##DIV[id="ti3"]
 ruliweb.com##DIV[class="ad"]
@@ -47,6 +48,8 @@ ruliweb.com##DIV[class="ad_wrapper"]
 ruliweb.com##DIV[class="mo_ad_main_ti_wrapper"]
 ruliweb.com##DIV[class="push_bar_wrapper"]
 ruliweb.com##DIV[class="fixed_ad_wrapper"]
+ruliweb.com##DIV[id="push_bar"]
+
 chosun.com##ASIDE[class="layout__article-col layout__article-right-rail | grid__col--lg-4 grid__col--md-12 grid__col--sm-12"]
 chosun.com##DIV[class="*_ad*"]
 chosun.com##DIV[class="arcad-wrapper"]
