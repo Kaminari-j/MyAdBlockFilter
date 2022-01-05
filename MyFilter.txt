@@ -50,6 +50,7 @@ ruliweb.com##DIV[class="push_bar_wrapper"]
 ruliweb.com##DIV[class="fixed_ad_wrapper"]
 ruliweb.com##DIV[id="push_bar"]
 ruliweb.com##DIV[class="notice_common"]
+ruliweb.com##DIV[class="nbp_container default line_deco_bottom"]
 
 chosun.com##ASIDE[class="layout__article-col layout__article-right-rail | grid__col--lg-4 grid__col--md-12 grid__col--sm-12"]
 chosun.com##DIV[class="*_ad*"]
