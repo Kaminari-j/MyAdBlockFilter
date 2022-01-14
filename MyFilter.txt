@@ -334,6 +334,8 @@ news.tf.co.kr##div[style="margin-top:10px;height:50px;"]
 news.tf.co.kr##DL[class="hotAtc mg_b30"]
 news.tf.co.kr##DIV[id="SUDA_SHARE_BOX"]
 
+wowtv.co.kr##DIV[class="ADinContents"]
+
 zdnet.co.kr##DIV[class="power_box"]
 zdnet.co.kr##DIV[class="cont_ad_box"]
 zdnet.co.kr##DIV[class="like_box"]
