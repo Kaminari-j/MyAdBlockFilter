@@ -355,3 +355,5 @@ asiae.co.kr##DIV[class="as_mj_news"]
 asiae.co.kr##DIV[class="sec4_ad"]
 
 sbs.co.kr##DIV[id="reply" class="w_box w_reply"]
+
+namu.wiki##DIV[id="D7bCic0bB"]
