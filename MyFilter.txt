@@ -30,7 +30,12 @@ ad.nmv.naver.com
 adc.naver.com
 adcreative.naver.com
 ams.rmcnmv.naver.com
-auto.danawa.com##DIV[id="newcarAdList"][class="adList"]
+
+danawa.com##DIV[id="newcarAdList"][class="adList"]
+danawa.com##DIV[id="mainAdReader"][class="main_ad_prodlist"]
+danawa.com##DIV[class="content_box_wrap spon_ad"]
+danawa.com##DIV[class="ad_section ad_power_link"]
+
 bb.ad.naver.com
 
 ruliweb.com##DIV[class="ad"]
@@ -357,3 +362,5 @@ asiae.co.kr##DIV[class="sec4_ad"]
 sbs.co.kr##DIV[id="reply" class="w_box w_reply"]
 
 namu.wiki##DIV[id="D7bCic0bB"]
+
+@@||freshcode.me/*^$document
