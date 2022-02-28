@@ -35,6 +35,7 @@ danawa.com##DIV[id="newcarAdList"][class="adList"]
 danawa.com##DIV[id="mainAdReader"][class="main_ad_prodlist"]
 danawa.com##DIV[class="content_box_wrap spon_ad"]
 danawa.com##DIV[class="ad_section ad_power_link"]
+danawa.com##DIV[class="main_ad_prodlist"]
 
 bb.ad.naver.com
 
