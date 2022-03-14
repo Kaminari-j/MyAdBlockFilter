@@ -362,6 +362,11 @@ asiae.co.kr##DIV[class="as_mj_news"]
 asiae.co.kr##DIV[class="sec4_ad"]
 asiae.co.kr##DIV[class="aside_md_photo"]
 asiae.co.kr##DIV[class="aside_md_today"]
+asiae.co.kr##DIV[class="art_btm"]
+asiae.co.kr##DIV[class="im_re_box"]
+asiae.co.kr##DIV[class="roll_wrap"]
+asiae.co.kr##DIV[class="fl_fr"]
+asiae.co.kr##DIV[class="view_photo_box"]
 
 sbs.co.kr##DIV[id="reply" class="w_box w_reply"]
 
