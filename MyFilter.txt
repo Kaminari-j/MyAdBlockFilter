@@ -115,9 +115,10 @@ finance.yahoo.com##DIV[id="defaultUBALREC2-sizer"][class="uba-container lrec-ldr
 finance.yahoo.com##DIV[id="mrt-node-Col2-4-AdUnitWithTdAds"]
 finance.yahoo.com##LI[class="W(60%) Mb(15px)"]
 finance.yahoo.com##UL[class="My(0) Ov(h) P(0) Wow(bw)"]
-gall.dcinside.com##DIV[class="stickyunit"]
-gall.dcinside.com##DIV[class="trc_rbox_container"]
-gall.dcinside.com##LI[id="comment_li_0"][class="ub-content dory"]
+dcinside.com##DIV[class="stickyunit"]
+dcinside.com##DIV[id="zzbang_div"]
+dcinside.com##DIV[class="trc_rbox_container"]
+dcinside.com##LI[id="comment_li_0"][class="ub-content dory"]
 ia.www.naver.com
 imnews.imbc.com##DIV[class="cont_left 14f"]
 imnews.imbc.com##DIV[class="program_list"]
