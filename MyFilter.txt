@@ -360,6 +360,8 @@ asiae.co.kr##DIV[class="photo_vod"]
 asiae.co.kr##DIV[class="as_see_news"]
 asiae.co.kr##DIV[class="as_mj_news"]
 asiae.co.kr##DIV[class="sec4_ad"]
+asiae.co.kr##DIV[class="aside_md_photo"]
+asiae.co.kr##DIV[class="aside_md_today"]
 
 sbs.co.kr##DIV[id="reply" class="w_box w_reply"]
 
