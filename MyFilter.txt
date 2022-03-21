@@ -373,3 +373,12 @@ sbs.co.kr##DIV[id="reply" class="w_box w_reply"]
 namu.wiki##DIV[id="D7bCic0bB"]
 
 @@||freshcode.me/*^$document
+
+ajunews.com##IFRAME[title="header bidding ad content"]
+ajunews.com##DIV[id="div-igaw-ad-web"]
+ajunews.com##DIV[class="asd_banner asd02"]
+ajunews.com##DIV[class="asd_rise asd01"]
+ajunews.com##DIV[class="asd_banner asd03"]
+ajunews.com##DIV[class="aside_item"]
+ajunews.com##DIV[class="aside_item global"]
+ajunews.com##DIV[class="aside_item global asd01"]
