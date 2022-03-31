@@ -388,3 +388,4 @@ ajunews.com##DIV[class="aside_item global asd01"]
 ajunews.com##DIV[class="comment_wrap"]
 
 www.encar.com##TR[id="srCarAdArea"]
+www.encar.com##DIV[id="prCarAdArea"]
