@@ -386,3 +386,5 @@ ajunews.com##DIV[class="aside_item"]
 ajunews.com##DIV[class="aside_item global"]
 ajunews.com##DIV[class="aside_item global asd01"]
 ajunews.com##DIV[class="comment_wrap"]
+
+www.encar.com##TR[id="srCarAdArea"]
