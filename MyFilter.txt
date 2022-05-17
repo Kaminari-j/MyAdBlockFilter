@@ -389,3 +389,6 @@ ajunews.com##DIV[class="comment_wrap"]
 
 www.encar.com##TR[id="srCarAdArea"]
 www.encar.com##DIV[id="prCarAdArea"]
+
+sundayjournalusa.com##DIV[class="flying_lban"]
+sundayjournalusa.com##DIV[class="flying_rban"]
