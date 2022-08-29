@@ -207,6 +207,7 @@ clien.net###div_content > div.list_top_outline:nth-child(10)
 clien.net###side_banner
 clien.net##DIV[class="list_center_outline"]
 clien.net##DIV[class="main_center_outline"]
+clien.net##DIV[class="list_top_outline"]
 clien.net##DIV[class="shop_naver"]
 donga.com##DIV[class="article_relation"]
 donga.com##DIV[class="aside_adbtm"]
