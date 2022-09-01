@@ -84,6 +84,22 @@ chosun.com##DIV[id="dcamp_ad_959"]
 chosun.com##DIV[id="hotnews"][class="cb_list1"]
 chosun.com##DIV[id="news_cmt_id"][class="news_cmt"]
 chosun.com/yellow.contentsfeed.com/RealMedia/ads/
+clien.net###div_content > div.list_top_outline:nth-child(10)
+clien.net###div_content > div.list_top_outline:nth-child(5)
+clien.net###div_content > div.post_view:nth-child(4) > div.post_writer:nth-child(3) > div.view_center_outline:first-child
+clien.net###side_banner
+clien.net##DIV[class="comment_row   blocked-row hidden"]
+clien.net##DIV[class="comment_row  re blocked-row hidden"]
+clien.net##DIV[class="list_center_ad"]
+clien.net##DIV[class="list_center_outline"]
+clien.net##DIV[class="list_top_outline"]
+clien.net##DIV[class="main_center_outline"]
+clien.net##DIV[class="naverAd"]
+clien.net##DIV[class="shop_naver"]
+clien.net##DIV[class="view_bottom_ad"]
+clien.net##DIV[class="view_center_ad"]
+clien.net##DIV[id="coupangAd"]
+clien.net##DIV[id="naverAd"]
 comic.naver.com##DIV[class="band_banner"]
 comic.naver.com##DIV[class="section_cont"]
 content.v.kakao.com##ASIDE
