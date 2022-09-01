@@ -100,6 +100,7 @@ clien.net##DIV[class="view_bottom_ad"]
 clien.net##DIV[class="view_center_ad"]
 clien.net##DIV[id="coupangAd"]
 clien.net##DIV[id="naverAd"]
+@@||clien.net/service/board/regist$document
 comic.naver.com##DIV[class="band_banner"]
 comic.naver.com##DIV[class="section_cont"]
 content.v.kakao.com##ASIDE
