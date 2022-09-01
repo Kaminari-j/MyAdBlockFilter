@@ -84,7 +84,6 @@ chosun.com##DIV[id="dcamp_ad_959"]
 chosun.com##DIV[id="hotnews"][class="cb_list1"]
 chosun.com##DIV[id="news_cmt_id"][class="news_cmt"]
 chosun.com/yellow.contentsfeed.com/RealMedia/ads/
-clien.net###side_banner
 clien.net##DIV[class="comment_row   blocked-row hidden"]
 clien.net##DIV[class="comment_row  re blocked-row hidden"]
 clien.net##DIV[class="list_center_ad"]
