@@ -104,6 +104,7 @@ clien.net##.board_upper_html
 clien.net##.main_top_cmdlfkgirjd
 clien.net##.main_center_widjrhfirj
 clien.net##.view_center_idlfksyenf
+clien.net##.side_posjduenfj
 m.clien.net##.main_top_wodjrifhcn, .not
 m.clien.net##.main_center_zksjdiejdh
 m.clien.net##.list_bottom_vmskdjeufh
