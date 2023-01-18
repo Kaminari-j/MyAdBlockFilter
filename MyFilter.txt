@@ -97,19 +97,6 @@ clien.net##DIV[class="view_bottom_ad"]
 clien.net##DIV[class="view_center_ad"]
 clien.net##DIV[id="coupangAd"]
 clien.net##DIV[id="naverAd"]
-clien.net##.list_top_kcmdjfkejf
-clien.net##.dashboard_area
-clien.net##.board_upper_image, .dark
-clien.net##.board_upper_html
-clien.net##.main_top_cmdlfkgirjd
-clien.net##.main_center_widjrhfirj
-clien.net##.view_center_idlfksyenf
-clien.net##.side_posjduenfj
-m.clien.net##.main_top_wodjrifhcn, .not
-m.clien.net##.main_center_zksjdiejdh
-m.clien.net##.list_bottom_vmskdjeufh
-m.clien.net##.list_center_qksjducndh
-m.clien.net##.view_top_kdjfuwhfyr
 @@||clien.net/service/board/regist$document
 comic.naver.com##DIV[class="band_banner"]
 comic.naver.com##DIV[class="section_cont"]
@@ -274,12 +261,12 @@ ruliweb.com##DIV[class="nbp_container default line_deco_bottom"]
 ruliweb.com##DIV[class="notice_common"]
 ruliweb.com##DIV[class="notice_wrapper"]
 ruliweb.com##DIV[class="push_bar_wrapper"]
-ruliweb.com##DIV[id="ad_board_list_01"][class="adrr ad_1152_90"]
-ruliweb.com##DIV[id="ad_board_read_01"][class="adrr ad_1152_90"]
-ruliweb.com##DIV[id="ad_board_read_02"][class="adrr ad_974_254"]
-ruliweb.com##DIV[id="ad_board_read_03"][class="adrr ad_1010_220"]
-ruliweb.com##DIV[id="ad_sub_top_01"][class="adrr ad_1150_250"]
-ruliweb.com##DIV[id="ad_sub_top_05"][class="adrr ad_300_601"]
+ruliweb.com##DIV[id="ad_board_list_01"]
+ruliweb.com##DIV[id="ad_board_read_01"]
+ruliweb.com##DIV[id="ad_board_read_02"]
+ruliweb.com##DIV[id="ad_board_read_03"]
+ruliweb.com##DIV[id="ad_sub_top_01"]
+ruliweb.com##DIV[id="ad_sub_top_05"]
 ruliweb.com##DIV[id="nbp_container_v3"]
 ruliweb.com##DIV[id="push_bar"]
 ruliweb.com##DIV[id="ti3"]
