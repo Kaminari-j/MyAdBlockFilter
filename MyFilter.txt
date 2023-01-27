@@ -347,6 +347,11 @@ clien.net##DIV[class="view_bottom_ad"]
 clien.net##DIV[class="naverAd"]
 clien.net##DIV[id="coupangAd"]
 clien.net##DIV[class="side_posjduenfj"]
+ruliweb.com##DIV[class="ad"]
+ruliweb.com##DIV[id^="ad_"]
+ruliweb.com##DIV[class="notice_wrapper"]
+ruliweb.com##DIV[class^="mo_ad_main_ti_wrapper"]
+ruliweb.com##DIV[class="ad_wrapper"]
 ||deepdive.zum.com^
 ||taboola.com^
 ||taboola.com^$third-party
