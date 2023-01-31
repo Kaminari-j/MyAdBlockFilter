@@ -345,6 +345,7 @@ clien.net##DIV[class="view_bottom_ad"]
 clien.net##DIV[class="naverAd"]
 clien.net##DIV[id="coupangAd"]
 clien.net##DIV[class="side_posjduenfj"]
+clien.net###hongboInfoList
 ruliweb.com##DIV[class="ad"]
 ruliweb.com##DIV[id^="ad_"]
 ruliweb.com##DIV[class="notice_wrapper"]
