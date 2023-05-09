@@ -351,6 +351,7 @@ ruliweb.com##DIV[id^="ad_"]
 ruliweb.com##DIV[class="notice_wrapper"]
 ruliweb.com##DIV[class^="mo_ad_main_ti_wrapper"]
 ruliweb.com##DIV[class="ad_wrapper"]
+cnn.com##DIV[class^="ad-slot"]
 ||deepdive.zum.com^
 ||taboola.com^
 ||taboola.com^$third-party
