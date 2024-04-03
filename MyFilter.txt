@@ -357,3 +357,4 @@ cnn.com##DIV[class^="ad-slot"]
 ||taboola.com^$third-party
 ||taboolasyndication.com^$third-party
 reddit.com##DIV[class^="promotedlink"]
+map.kakao.com##DIV[class="AdItem"]
